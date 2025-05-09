@@ -30,7 +30,7 @@ const OpenClub = () => {
           
           <div className="relative mt-8">
             <FacilityLayout 
-              floorPlanImage="/assets/images/floor-plan.jpg" 
+              floorPlanImage="/Plan.svg" 
               handleAreaClick={handleAreaClick} 
             />
             

@@ -36,7 +36,7 @@ const Home = () => {
       <HeroSection 
         title="TRUE FITNESS" 
         subtitle="Превосходство. Инновации. Результат."
-        backgroundImage='/Home.svg'
+        backgroundImage='/home.svg'
         buttonText="Начать"
         onButtonClick={handleGetStarted}
       />
@@ -94,7 +94,7 @@ const Home = () => {
               </div>
               <div className="flex items-center">
                 <img 
-                  src="/assets/images/testimonial-1.jpg" 
+                  src="/1.svg" 
                   alt="Алексей" 
                   className="w-12 h-12 rounded-full mr-4 object-cover"
                 />
@@ -114,7 +114,7 @@ const Home = () => {
               </div>
               <div className="flex items-center">
                 <img 
-                  src="/assets/images/testimonial-2.jpg" 
+                  src="/4.svg" 
                   alt="Мария" 
                   className="w-12 h-12 rounded-full mr-4 object-cover"
                 />
